@@ -8,7 +8,7 @@ int main()
    
     for(i=65;i<=90;i++)
     {
-        cout<<i<<endl;
+        cout<<i<<"-"<<int(i)<<endl;
         
     }
    
